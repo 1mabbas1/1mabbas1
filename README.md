@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammad.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning React.
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/mohammad-abbas-7466a9156)
